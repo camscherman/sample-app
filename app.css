@@ -1,0 +1,33 @@
+@media (min-width: 320px) and (max-width: 480px) {
+  .button-col {
+    margin: 2px;
+
+    height: 32vh;
+  }
+  .button-row {
+    padding-left: 10px;
+    height: 32%;
+  }
+}
+
+.button-col {
+  margin: 2px;
+  height: 100%;
+}
+
+.button-row {
+  height: 195px;
+  padding: 0px;
+}
+.col {
+  padding: 0px;
+}
+.btn {
+  width: 100%;
+  height: 100%;
+  margin: 1px;
+  font-size: 45px;
+}
+.icon {
+  font-size: 45px;
+}
